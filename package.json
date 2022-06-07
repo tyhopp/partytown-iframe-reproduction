@@ -1,0 +1,11 @@
+{
+  "name": "partytown-iframe-reproduction",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "setup": "npx @builder.io/partytown copylib ~partytown",
+    "start": "python3 -m http.server"
+  },
+  "devDependencies": {}
+}
